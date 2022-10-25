@@ -1,0 +1,54 @@
+.main{
+display: flex;
+justify-content: center;
+width: 100%;
+}
+
+.imagine{
+    align-self: center;
+    background-image: url(https://static.cdninstagram.com/rsrc.php/v3/y4/r/ItTndlZM2n2.png);
+    background-position: -46px 0;
+    background-size: 468.32px 634.15px;
+    flex-basis: 380.32px;
+    height: 581.15px;
+    margin-bottom: 12px;
+    margin-right: 32px;
+}
+
+.chestii{
+    display: flex;
+    flex-direction: column;
+}
+
+.butoane{
+    align-self: center;
+    margin-bottom: 200px;
+    margin-left: 40px;
+}
+
+.login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.buton{
+    color:white ;
+    background-color: #47afff;
+    border:0px;
+    font-size: 18px;
+    border-radius: 4px;
+    width: 150%;
+}
+
+.imp{
+    border-radius: 4px;
+     margin-top: 5px;
+     border: 1px solid;
+}
+
+.imagin{
+    margin-bottom: 25px;
+    
+}
